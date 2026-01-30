@@ -25,7 +25,7 @@ RegisterNumber:212225040080
 ````
 
 ## Output:
-<img width="855" height="677" alt="Screenshot 2026-01-30 143350" src="https://github.com/user-attachments/assets/c85c98fa-e672-478b-bbf4-904cbfe22b19" />
+
 
 
 
